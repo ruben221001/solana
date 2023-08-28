@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "980580349066",
+    "project_id": "solana-6ceaf",
+    "storage_bucket": "solana-6ceaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980580349066:android:940130df400eddb1e06973",
+        "android_client_info": {
+          "package_name": "com.mycompany.solana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980580349066-1dltet6pm82rbep7lragf5hao5httbrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm0EYgYYCvH3fOnv33Hxt4Uq6yytsXuVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980580349066-1dltet6pm82rbep7lragf5hao5httbrg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980580349066-dq6mtuo4atu9hblnh0so2e7hr2b94vp9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.solana"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
